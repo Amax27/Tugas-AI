@@ -1,0 +1,76 @@
+Nama:	Arsena Agung Dermawan	|
+NIM: 	131113930		|
+TP-B Pagi			|
+=================================
+1) Apakah anda setuju atau tidak dengan pendapat Turing?
+=
+Ya, karena turing melakukan riset untuk membuktikan bahwa mesin bisa menjawab mendekati seperti manusia, tetapi mesin tidak mengetahui bahwa dia adalah mesin, sehingga mesin tidak memiliki irasional seperti manusia.
+Dalam perbincangan dibatasi hanya papan ketik dan layar, sehingga tes ini mengetahui seberapa mirip jawaban seperti manusia.
+
+2) Apakah menurut anda, akan ada komputer yang bisa melewati Tes Turing suatu saat?
+=
+Ya, karena setiap peradaban manusia akan ada komputer yang memiliki sensor dan algoritma yang termutakhir, sehingga komputer akan memiliki kemampuan mirip seperti manusia.
+
+3) Halangan apa saja yang menurut anda menghambat perkembangan komputer untuk melewati Tes Turing?
+=
+-Membutuhkan SDM yang sangat jenius,tetapi masih belum banyak orang memiliki kemampuan tersebut.
+-Algoritma dalam program masih ada masalah, sehingga membutuhkan programmer khusus untuk memperbaiki bugs tersebut.
+-Membutuhkan sensor yang lebih pintar,sehingga bisa mengenal dengan jelas dengan manusia.
+
+4) Jelaskan istilah pada bidang AI serta berikan beberapa contoh implementasi untuk masing-masing sub bidang tersebut! 
+
+#Pengolahan Bahasa Alami 
+Natural Language Processing adalah mengkaji interaksi antara komputer dan bahasa manusia yang diproses melalui model komputasi dari bahasa komputer.
+Jenis-jenis yang bisa dibuat pengolahan bahasa alami yaitu:
+Text-based application dan Dialogue-based application
+
+Text-based application adalah mencakup semua macam aplikasi yang berhubungan terhadap teks tertulis, seperti buku, berita di surat kabar, email dan sebagainya.
+Contoh:
+-Mencari topik tertentu dalam artikel
+-menerjemahkan kata/dokumen ke bahasa yang lain
+
+Dialogue-based application adalah merupakan pendapatan lisan atau pengenalan suara, tetapi bisa berinteraksi memasukan teks pertanyaan melalui keyboard.
+Contoh:
+-Mengubah bahasa menjadi text
+-sistem otomatis melalui telepon
+-sistem tanya jawab
+
+#Knowledge representation 
+Adalah suatu proses untuk menangkap sifat-sifat penting problema dan membuat informasi tersebut dapat diakses oleh prosedur pemecahan masalah.
+Contoh:
+Sistem pakar
+
+#Automated Reasoning 
+Penalaran otomatis merupakan bidang ilmu komputer dan logika matematika didedikasikan untuk memahami berbagai aspek penalaran.
+Bidang ini diterapkan untuk memecahkan banyak masalah
+contoh:
+logika formal, matematika dan ilmu komputer, pemrograman logika, perangkat lunak dan sebagainya.
+
+#Machine Learning 
+Adalah ilmu cabang dari kecerdasan buatan yang mempelajari bagaimana caranya belajar dari data.
+Untuk bisa mengaplikasikan teknik-teknik machine learning maka hal yang pertama harus ada adalah data. Tanpa data maka algoritma machine learning tidak dapat bekerja. Data yang dimiliki biasanya dibagi menjadi 2, yaitu data training dan data testing. Data training digunakan untuk melatih algoritma, sedangkan data testing dipakai untuk mengetahui performa algoritma yang sudah dilatih sebelumnya ketika menemukan data baru yang belum pernah dilihat sebelumnya.
+Contoh:
+-Bidang kedokteran: bagaimana mendeteksi penyakit seseorang dari gejala-gejala yang ada, atau deteksi apakah seseorang mengidap penyakit jantung dari rekaman elektrokardiogram, dan mencari tahu gen yang terlibat pada penyakit kanker.
+-Bidang computer vision: menemukan dan memberi label muka orang pada foto (seperti di facebook) atau face recognition, pengenalan tulisan tangan menjadi teks pada komputer atau handwriting recognition.
+-Bidang teks atau information retrieval: menerjemahkan bahasa menggunakan mesin atau machine translation, mengubah suara menjadi teks atau speech recognition, atau memisahkan email antara yang spam dan yang non-spam.
+
+#Computer Vision
+Computer vision adalah bidang yang mencakup metode untuk memperoleh, mengolah, menganalisis, dan memahami data visual seperti gambar dan video. 
+Tujuan utama dari Computer Vision adalah agar komputer atau mesin dapat meniru kemampuan perseptual mata dan otak manusia.
+Contoh:
+Industri : biasanya CV digunakan membantu proses otomasi industri, misalnya untuk quality control dimana computer vision berfungsi untuk melakukan pemeriksaan akhir terhadap produk untuk menemukan apakah ada cacat produksi. Dalam bidang industri terkadang disebut sebagai machine vision karena biasanya dihubungankan dengan perangkat lain.
+Robotika : digunakan untuk mengenali lingkungan sekitar, misalnya mobile robot, lengan robot yang dapat mengenali objek, drone robot (pesawat robot tanpa awak), robot humanoid, robot penjelajah, dll.
+Otomotif : misalnya pada autonomus vehicle, fitur keselamatan rem otomatis untuk menghindari tabrakan dengan penyeberang jalan ataupun objek lain.
+Pendeteksi : misalnya alat presensi yang dapat mengenali wajah, alat pendeteksi tanda tangan, alat penghitung jumlah kendaraan yang melintasi jalan, dll.
+Medis : biasanya digunakan untuk menangkap, mengolah, dan menganalisis gambar yang ditangkap dari pasien untuk mendiagnosis penyakit. Umumnya data gambar diambil dari mikroskop, x-ray, angiopraphy, ultrasonik, dan tomography. Aplikasi di bidang medis juga termasuk peningkatan kualitas gambar yang diinterpretasikan oleh manusia, misalnya gambar ultrasonik atau gambar X-ray, untuk mengurangi pengaruh noise.
+
+
+#Robotika 
+Adalah satu cabang dari kecerdasan buatan yang berhubungan dengan desain, konstruksi, operasi, disposisi struktural, pembuatan, dan aplikasi dari robot. Robotika terkait dengan ilmu pengetahuan bidang elektronika, mesin, mekanika, dan perangkat lunak komputer.
+Contoh:
+Robot Humanoid(Robot mirip manusia)
+Robot Mobile
+Robot Jaringan
+Robot Manipulator (Tangan)
+Flying Robot (Robot Terbang)
+Underwater Robot (Robot dalam Air)
